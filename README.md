@@ -1,41 +1,40 @@
-# AM
+# ML
 
-Esse repositório foi feito pelo aluno Gabriel Graton nas matérias de Aprendizado de Máquina 1 e 2 ofertada no período de 2023/01 e 2024/01, respectivamente
-pelo professor Murilo Naldi do Departamento de Computação da UFScar.
+This repository was created by student Gabriel Graton for the Machine Learning 1 and 2 courses offered in the 2023/01 and 2024/01 terms, respectively, by Professor Murilo Naldi from the Department of Computer Science at UFSCar.
 
-# Resumo
+# Resume
 
-## AM1
+## AM1 (ML1)
 
-### Trabalho 1
+### Assignment 1
 
-- Para a realização do trabalho, o grupo optou por escolher o conjunto de dados “Personal Key Indicator of Heart Disease” do repositório de dados Kaggle.
-- Amostragem Aleatória com Árvore de decisão / Cross-Validation com KNN / Cross-Validation com RandomFlorest
-- Métricas de avaliação: Tempo / Acurácia / Sensibilidade / Especificidade / Matriz de Confusão
+- For this assignment, the group chose the dataset “Personal Key Indicator of Heart Disease” from the Kaggle data repository.
+- Random Sampling with Decision Tree / Cross-Validation with KNN / Cross-Validation with Random Forest
+- Evaluation metrics: Time / Accuracy / Sensitivity / Specificity / Confusion Matrix
 
-### Trabalho 2
+### Assignment 2
 
-- Para a realização do trabalho, o grupo optou por escolher o conjunto de dados “Personal Key Indicator of Heart Disease” do repositório de dados Kaggle.
-- PCA + Kmeans com 3 / Kemans com 4 / Kemans com 5
-- PCA + Aglomerativo ward complete 3 clusters / Aglomerativo ward complete 5 clusters
-- Silhueta + Davies-Bouldin
+- For this assignment, the group chose the dataset “Personal Key Indicator of Heart Disease” from the Kaggle data repository.
+- PCA + KMeans with 3 / KMeans with 4 / KMeans with 5
+- PCA + Agglomerative Ward Complete with 3 clusters / Agglomerative Ward Complete with 5 clusters
+- Silhouette + Davies-Bouldin
 
-## AM2
+## AM2 (ML2)
 
- ### Trabalho 1
+ ### Assignment 1
 
-- Para a realização do trabalho, O conjunto de dados escolhido para a pesquisa é denominado Best Books do repositório de dados Kaggle.
-- PLN - SGDClassifier OneVsRest / LogisticRegression OneVsRest / LinearSVC OneVsRest / Classifier chain com random forest / Label powerset com random forest
-- Silhueta + Davies-Bouldin
+- For this assignment, the dataset chosen for the research is called Best Books from the Kaggle data repository.
+- NLP - SGDClassifier OneVsRest / Logistic Regression OneVsRest / LinearSVC OneVsRest / Classifier Chain with Random Forest / Label Powerset with Random Forest
+- Silhouette + Davies-Bouldin
 
-### Trabalho 2
+### Assignment 2
 
-- Para a realização do trabalho, O conjunto escolhido para a pesquisa é denominado "Sign Language MNIST" do repositório de dados Kaggle.
+- For this assignment, the dataset chosen for the research is called "Sign Language MNIST" from the Kaggle data repository.
 - Convolutional Neural Network
-- LeakyReLU + ReLu
-- Silhueta + Haming Loss
+- Leaky ReLU + ReLU
+- Silhouette + Hamming Loss
 
-# Tecnilogias
+# Technologies
 
 - Google Collab
 - Google Docs
